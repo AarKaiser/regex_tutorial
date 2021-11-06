@@ -26,4 +26,4 @@ Please feel free to contact me with further questions via email, which is my pre
 
 ## Screenshot
         
-![Screenshot](https://raw.githubusercontent.com/AarKaiser/regex_tutorial/main/assets/images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/AarKaiser/regex_tutorial/main/assets/screenshot.png?token=AU2FQJXVLA7IDQBHFV6URDTBQYSIA)
