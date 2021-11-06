@@ -17,7 +17,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
     6. [The OR Operator](#the-or-operator)
     7. [Flags](#flags)
     8. [Character Escapes](#character-escapes)
-    9. [Sources](#sources-&-references)
+    9. [Sources and References](#sources-and-references)
     10. [Author](#author)
 
 ## Regex Components
@@ -38,7 +38,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Character Escapes
 
-### Sources & References
+### Sources and References
 1.  "[2.1: Introduction to Regular Expressions - Programming with Text ](https://www.youtube.com/watch?v=7DG3kCDx53c)" by [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) YouTube Channel.
 2.  "[Regular Expression Tutorial](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)" by Request-Response, [The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/).
 3.  "[Regular Expressions (RegEx) Tutorial #1 - What is RegEx?](https://www.youtube.com/watch?v=r6I-Ahc0HB4)" by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) YouTube Channel.
