@@ -17,7 +17,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
     6. [The OR Operator](#the-or-operator)
     7. [Flags](#flags)
     8. [Character Escapes](#character-escapes)
-    9. [Sources](#sources)
+    9. [Sources](#sources-&-references)
     10. [Author](#author)
 
 ## Regex Components
@@ -38,13 +38,14 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Character Escapes
 
-### Sources
+### Sources & References
 1.  "[2.1: Introduction to Regular Expressions - Programming with Text ](https://www.youtube.com/watch?v=7DG3kCDx53c)" by [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) YouTube Channel.
 2.  "[Regular Expression Tutorial](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)" by Request-Response, [The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/).
 3.  "[Regular Expressions (RegEx) Tutorial #1 - What is RegEx?](https://www.youtube.com/watch?v=r6I-Ahc0HB4)" by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) YouTube Channel.
 4.  "[Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)" by the [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) YouTube Channel.
 5.  "[RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)" by Mozilla's [MDN Web Docs](https://developer.mozilla.org/en-US/).
-6.  Live class instructon from Class Insctuctor [Deep Patel](https://github.com/dpat0074), and Teaching Assistants [Luca Beyrute](https://github.com/LHBO19) & [Devon Brewster](https://github.com/D-Brewst) at the [University of Toronto](https://www.utoronto.ca/) [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
+6.  [How To Use Gists](https://www.youtube.com/watch?v=wc2NlcWjQHw) by [Digital Horizon](https://www.youtube.com/channel/UCTaWTebJrEc4S80GgBnivpw) YouTube Channel.
+7.  Live class instructon from Class Insctuctor [Deep Patel](https://github.com/dpat0074), and Teaching Assistants [Luca Beyrute](https://github.com/LHBO19) & [Devon Brewster](https://github.com/D-Brewst) at the [University of Toronto](https://www.utoronto.ca/) [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
 
 ## Author
 
