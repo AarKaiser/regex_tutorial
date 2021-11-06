@@ -8,16 +8,17 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Table of Contents
 
-1. [Anchors](#anchors)
-2. [Quantifiers](#quantifiers)
-3. [Grouping Constructs](#grouping-constructs)
-4. [Bracket Expressions](#bracket-expressions)
-5. [Character Classes](#character-classes)
-6. [The OR Operator](#the-or-operator)
-7. [Flags](#flags)
-8. [Character Escapes](#character-escapes)
-9. [Sources](#sources)
-10. [Author](#author)
+- [Title](#title)
+    1. [Anchors](#anchors)
+    2. [Quantifiers](#quantifiers)
+    3. [Grouping Constructs](#grouping-constructs)
+    4. [Bracket Expressions](#bracket-expressions)
+    5. [Character Classes](#character-classes)
+    6. [The OR Operator](#the-or-operator)
+    7. [Flags](#flags)
+    8. [Character Escapes](#character-escapes)
+    9. [Sources](#sources)
+    10. [Author](#author)
 
 ## Regex Components
 
