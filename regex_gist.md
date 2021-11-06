@@ -28,6 +28,11 @@ Together we will decipher what may at first appear like hieroglyphs, in order to
 
 ## Regex Components
 
+Regex syntax consists of two components:
+
+    1. Basic Elements: Elements
+    2. Qualifying Characters
+
 ### Anchors
 
 ### Quantifiers
