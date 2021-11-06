@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Title
 
 Introductory paragraph (replace this with your text)
 
@@ -39,11 +39,11 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ### Character Escapes
 
 ### Sources
-1. [2.1: Introduction to Regular Expressions - Programming with Text ](https://www.youtube.com/watch?v=7DG3kCDx53c) by [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) YouTube Channel.
-2. [Regular Expression Tutorial](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial) by Request-Response, [The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/)
-3.
-4.
-5. Live class instructon from Class Insctuctor [Deep Patel](https://github.com/dpat0074), and Teaching Assistants [Luca Beyrute](https://github.com/LHBO19) & [Devon Brewster](https://github.com/D-Brewst) at the University of Toronto [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
+    1. [2.1: Introduction to Regular Expressions - Programming with Text ](https://www.youtube.com/watch?v=7DG3kCDx53c) by [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) YouTube Channel.
+    2. [Regular Expression Tutorial](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial) by Request-Response, [The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/)
+    3. [Regular Expressions (RegEx) Tutorial #1 - What is RegEx?](https://www.youtube.com/watch?v=r6I-Ahc0HB4) by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) YouTube Channel.
+    4.  [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk) by [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) YouTube Channel.
+    5. Live class instructon from Class Insctuctor [Deep Patel](https://github.com/dpat0074), and Teaching Assistants [Luca Beyrute](https://github.com/LHBO19) & [Devon Brewster](https://github.com/D-Brewst) at the University of Toronto [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
 
 ## Author
 
