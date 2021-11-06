@@ -48,6 +48,6 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-Aar Kaiser is new to the world of development, a novice coder passionate about learning and sharing information. At the time of writing this gist, Aar was in week 9 of 12 in the [University of Toronto](https://www.utoronto.ca/)'s [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
+[Aar Kaiser](https://github.com/AarKaiser) is new to the world of development, a novice coder passionate about learning and sharing information. At the time of writing this gist, Aar was in week 9 of 12 in the [University of Toronto](https://www.utoronto.ca/)'s [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
 
 Aar's Gitub Profile: [Aar Kaiser](https://github.com/AarKaiser)
