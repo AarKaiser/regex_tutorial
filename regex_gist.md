@@ -48,7 +48,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 5.  "[RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)" by Mozilla's [MDN Web Docs](https://developer.mozilla.org/en-US/).
 6.  [How To Use Gists](https://www.youtube.com/watch?v=wc2NlcWjQHw) by [Digital Horizon](https://www.youtube.com/channel/UCTaWTebJrEc4S80GgBnivpw) YouTube Channel.
 7.  Wikepedia [Article](https://en.wikipedia.org/wiki/Regular_expression) on Regular Expressions.
-8.  Live class instructon from Class Insctuctor [Deep Patel](https://github.com/dpat0074), and Teaching Assistants [Luca Beyrute](https://github.com/LHBO19) & [Devon Brewster](https://github.com/D-Brewst) at the [University of Toronto](https://www.utoronto.ca/) [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
+8.  Live instructon from Class Insstructor [Deep Patel](https://github.com/dpat0074), and Teaching Assistants [Luca Beyrute](https://github.com/LHBO19) & [Devon Brewster](https://github.com/D-Brewst) at the [University of Toronto](https://www.utoronto.ca/) [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
 
 ## Author
 
