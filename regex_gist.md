@@ -30,10 +30,18 @@ Together we will decipher what may at first appear like hieroglyphs, in order to
 
 Regex syntax consists of two components:
 
-    1. Basic Elements: Elements
-    2. Qualifying Characters
+1. Basic Elements
+2. Qualifying Characters
+
+Basic Elements assist by defining and sorting values in a Regex, while Qualifying Characters allow us to represent certain qualification criteria in a shorter number of characters. In our example:
+
+    /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+    
+The caret "^" (which matches a string where a specified pattern occurs) is a Basic Element, while the "*" asterix (which matches zero "0" or more occurances in the element that preceeds it) is a Qualifying Character. We'll further break down why each belong to either category, and learn what a nifty tool the "wild-card" asterix is. 
 
 ### Anchors
+
+
 
 ### Quantifiers
 
