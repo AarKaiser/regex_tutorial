@@ -8,7 +8,7 @@ In this brief introduction to Regex, we will cover a specific example in order t
 
 For our example, we will use the following regex:
 
-/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+    /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
 
 Together we will decipher what may at first appear like hieroglyphs, in order to gain an understanding of the convenience Regex provides. As you may have concluded after noticing the "https" embedded within the string - eagle eyes! - this Regex assists in locating URLs in a text.
 
