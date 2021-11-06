@@ -94,6 +94,11 @@ Flags are used to define the scope of the string, and are used at the end of a R
 
 ### Character Escapes
 
+Character Escapes are any characters preceeded by a backslash ("\") such as the "\n" example we've mentioned while breaking down character classes. They simply allow us to use characters reserved in Regex, so they are not understood as a part of the search pattern. In our example:
+
+    /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+    
+the backslash ("\") is used to allow for the use of a forward slash ("/") as a part of our URL search "\/\/" in the "(https?:\/\/)" grouping. 
 
 ### Practice
 
