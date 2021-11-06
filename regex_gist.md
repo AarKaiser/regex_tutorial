@@ -1,6 +1,8 @@
-# Title
+# A Brief Introduction to Regex
 
-Introductory paragraph (replace this with your text)
+"Regex" is a portmanteau of the words "regular" and "expression," and refers to a set of strings used to create patterns that assist in the matching, locating and management of text. They are accessible in a wide-range of applicatons ranging from the command line, to text-editors, and have made complex functions otherwise required for the same functionality redundant. Created in 1951 by mathematician [Stephen Cole Kleene](https://www.britannica.com/biography/Stephen-Cole-Kleene), Regex entered popular use in 1968 after being popularized by text-editors and compilers. It is now a common concept in programming and development, where it has considerably shortened the ammount of code required to achieve the same task.
+
+In this brief introduction to Regex, we will cover a specific example in order to facilitate grasping both the usefulness and concept behind Regex.
 
 ## Summary
 
@@ -45,10 +47,11 @@ Briefly summarize the regex you will be describing and what you will explain. In
 4.  "[Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)" by the [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) YouTube Channel.
 5.  "[RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)" by Mozilla's [MDN Web Docs](https://developer.mozilla.org/en-US/).
 6.  [How To Use Gists](https://www.youtube.com/watch?v=wc2NlcWjQHw) by [Digital Horizon](https://www.youtube.com/channel/UCTaWTebJrEc4S80GgBnivpw) YouTube Channel.
-7.  Live class instructon from Class Insctuctor [Deep Patel](https://github.com/dpat0074), and Teaching Assistants [Luca Beyrute](https://github.com/LHBO19) & [Devon Brewster](https://github.com/D-Brewst) at the [University of Toronto](https://www.utoronto.ca/) [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
+7.  Wikepedia [Article](https://en.wikipedia.org/wiki/Regular_expression) on Regular Expressions.
+8.  Live class instructon from Class Insctuctor [Deep Patel](https://github.com/dpat0074), and Teaching Assistants [Luca Beyrute](https://github.com/LHBO19) & [Devon Brewster](https://github.com/D-Brewst) at the [University of Toronto](https://www.utoronto.ca/) [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
 
 ## Author
 
 [Aar Kaiser](https://github.com/AarKaiser) is new to the world of development, a novice coder passionate about learning and sharing information. At the time of writing this gist, Aar was in week 9 of 12 in the [University of Toronto](https://www.utoronto.ca/)'s [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
 
-Aar's Gitub Profile: [Aar Kaiser](https://github.com/AarKaiser)
+Aar's Gitub Profile: [Aar Kaiser](https://github.com/AarKaiser).
