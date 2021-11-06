@@ -2,11 +2,15 @@
 
 "Regex" is a portmanteau of the words "regular" and "expression," and refers to a set of strings used to create patterns that assist in the matching, locating and management of text. They are accessible in a wide-range of applicatons ranging from the command line, to text-editors, and have made complex functions otherwise required for the same functionality redundant. Created in 1951 by mathematician [Stephen Cole Kleene](https://www.britannica.com/biography/Stephen-Cole-Kleene), Regex entered popular use in 1968 after being popularized by text-editors and compilers. It is now a common concept in programming and development, where it has considerably shortened the ammount of code required to achieve the same task.
 
-In this brief introduction to Regex, we will cover a specific example in order to facilitate grasping both the usefulness and concept behind Regex.
+In this brief introduction to Regex, we will cover a specific example in order to facilitate grasping the concept, utility and usefulness of Regex.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+For our example, we will use the following regex:
+
+/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+
+Together we will decipher what may at first appear like hieroglyphs in order to gain an understanding of the convenience Regex provides. This example locates web URLs in a text, as you may have concluded after noticing the "https" embedded within the string, eagle eyes!
 
 ## Table of Contents
 
