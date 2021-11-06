@@ -38,7 +38,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ### Character Escapes
 
 ### Sources
-1. [2.1: Introduction to Regular Expressions - Programming with Text ](https://www.youtube.com/watch?v=7DG3kCDx53c) by [The Coding Train Youtube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+1. [2.1: Introduction to Regular Expressions - Programming with Text ](https://www.youtube.com/watch?v=7DG3kCDx53c) by [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) YouTube Channel.
 2. [Regular Expression Tutorial](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial) by [Request-Response, The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/)
 3.
 4.
