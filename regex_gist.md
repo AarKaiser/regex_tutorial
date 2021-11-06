@@ -10,11 +10,11 @@ For our example, we will use the following regex:
 
 /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
 
-Together we will decipher what may at first appear like hieroglyphs in order to gain an understanding of the convenience Regex provides. This example locates web URLs in a text, as you may have concluded after noticing the "https" embedded within the string, eagle eyes!
+Together we will decipher what may at first appear like hieroglyphs, in order to gain an understanding of the convenience Regex provides. As you may have concluded after noticing the "https" embedded within the string - eagle eyes! - this Regex assists in locating URLs in a text.
 
 ## Table of Contents
 
-- [Title](#title)
+- [A Brief Introduction to Regex](#a-brief-introduction-to-regex)
     1. [Anchors](#anchors)
     2. [Quantifiers](#quantifiers)
     3. [Grouping Constructs](#grouping-constructs)
@@ -51,8 +51,9 @@ Together we will decipher what may at first appear like hieroglyphs in order to 
 4.  "[Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk)" by the [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) YouTube Channel.
 5.  "[RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)" by Mozilla's [MDN Web Docs](https://developer.mozilla.org/en-US/).
 6.  [How To Use Gists](https://www.youtube.com/watch?v=wc2NlcWjQHw) by [Digital Horizon](https://www.youtube.com/channel/UCTaWTebJrEc4S80GgBnivpw) YouTube Channel.
-7.  Wikepedia Article on [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression).
-8.  Live instructon from Class Instructor [Deep Patel](https://github.com/dpat0074), and Teaching Assistants [Luca Beyrute](https://github.com/LHBO19) & [Devon Brewster](https://github.com/D-Brewst) at the [University of Toronto](https://www.utoronto.ca/) [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
+7.  Wikepedia Article on "[Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression)".
+8.  "[What is a Regex (Regular Expression)?](https://www.computerhope.com/jargon/r/regex.htm)" article on [ComputerHope.com](https://www.computerhope.com/). 
+9.  Live instructon from Class Instructor [Deep Patel](https://github.com/dpat0074), and Teaching Assistants [Luca Beyrute](https://github.com/LHBO19) & [Devon Brewster](https://github.com/D-Brewst) at the [University of Toronto](https://www.utoronto.ca/) [Full-Stack Flex](https://bootcamp.learn.utoronto.ca/) coding Bootcamp.
 
 ## Author
 
