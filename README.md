@@ -7,6 +7,10 @@ Motivation: - Sharing information I've learned with others.
 Problem Solved: - How to use Regex.
 Lessons: - Don't try to write this stuff at 3 AM.
 
+## Usage
+
+The GitHub gist can be accessed [here]( https://gist.github.com/AarKaiser/e7dff51aa877d2654f87ed22a5b7a187).
+
 ## Contributing:
 
 [Aar](https://www.github.com/aarkaiser)
